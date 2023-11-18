@@ -1,4 +1,4 @@
-.body {
+/* .body {
   box-sizing: border-box;
 }
 .navbar-fixed-top {
@@ -53,7 +53,7 @@
 }
 .container-in {
   background-color: #f7fafc;
-  /* box-shadow: 0px 0px 30px #bdcbdd; */
+  box-shadow: 0px 0px 30px #bdcbdd;
 }
 .nav-2-img {
   height: 70px;
@@ -175,4 +175,4 @@
 
 .form {
   line-height: 10px;
-}
+} */
