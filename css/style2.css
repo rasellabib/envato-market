@@ -10,7 +10,7 @@
 }
 .navbar-fixed-top-2 {
   position: fixed;
-  top: 60px;
+  top: 0px;
 
   left: 0;
   width: 100%;
@@ -72,7 +72,8 @@
   margin-top: 200px;
 }
 .custom-image {
-  height: auto;
+  height: 350px;
+  width: 400px;
 }
 .hover-img {
   transition: all 0.4s;
@@ -122,7 +123,6 @@
 }
 
 .row-gap-5 {
-  gap: 100px !important;
 }
 
 .icon {
@@ -134,7 +134,6 @@
 ============= */
 .bannar-in {
   display: block;
-  margin-top: 100px;
 }
 .bannar-in-img {
   background-image: url(../assets/clouds3.png);
