@@ -176,3 +176,23 @@
 .form {
   line-height: 10px;
 } */
+
+
+@media screen and (max-width: 480px) {
+  .text {
+  font-size: 30px;
+}
+  .btn{
+        height: 30px;
+        width: 80px;
+        font-size: 10px;
+}
+.heading{
+  font-size: 30px;
+}
+}
+@media screen and (min-width: 480px) {
+  .text {
+  font-size: 48px;
+}
+}
